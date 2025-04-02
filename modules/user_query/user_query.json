@@ -1,0 +1,15 @@
+{
+  "gitSyncId": "67ecd29036cf2b40c1c9318f_24c3ad63-f4fd-485f-ab13-a6f96c178d2d",
+  "moduleUUID": "e384740b-2c3f-40ad-b1de-e689fa66e7c5",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [],
+        "id": "ginumivspd",
+        "sectionName": ""
+      }
+    ],
+    "name": "user_query"
+  }
+}
